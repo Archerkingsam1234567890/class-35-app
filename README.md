@@ -1,1 +1,2 @@
-# class-35-app
+# synchronousBallMovement
+Ball moving synchronously
